@@ -40,6 +40,7 @@ A personal collection of interesting websites and other links I want to keep han
 ### Argentina
 
 - [Ischigualasto Provincial Park, San Juan](https://www.google.com/maps/place/Ischigualasto+Provincial+Park/@-30.1388015,-67.9157747,11z/data=!4m6!3m5!1s0x9682ec3d05e629c3:0xcce54efd17759dd0!8m2!3d-30.163806!4d-67.842494!16zL20vMDg4czBq)
+- [Talampaya National Park, La Rioja](https://www.google.com/maps/place/Parque+Nacional+Talampaya/@-30.2057859,-68.6223324,8.5z/data=!4m6!3m5!1s0x9682cfaa7f5b4c51:0xd4008391c6014968!8m2!3d-29.8906226!4d-67.853468!16zL20vMDc2M2xz)
 
 ---
 
