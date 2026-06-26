@@ -1,6 +1,6 @@
 # Bookmarks
 
-A personal collection of websites I find interesting and don't want to lose.
+A personal collection of interesting websites and other links I want to keep handy so I don't lose track of them.
 
 ## Index
 
